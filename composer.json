@@ -9,6 +9,12 @@
             "email": "tandrewbennett@hotmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/shaunhend/stapler"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "codesleeve/stapler": "1.0.*",
